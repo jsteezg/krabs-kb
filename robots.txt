@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://jsteezg.github.io/krabs-kb/sitemap.xml
